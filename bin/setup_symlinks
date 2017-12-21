@@ -1,0 +1,4 @@
+cd ~
+
+ln -sf ~/workspace/dotfiles/bashrc .bashrc
+ln -sf ~/workspace/dotfiles/bash_profile .bash_profile

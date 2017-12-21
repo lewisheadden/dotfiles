@@ -1,0 +1,18 @@
+brew "liquidprompt"
+brew "byobu"
+brew "gnupg"
+brew "maven"
+brew "vault"
+brew "yarn"
+
+cask "visual-studio-code"
+cask "jetbrains-toolbox"
+cask "1Password"
+cask "docker"
+cask "spectacle"
+cask "iterm2"
+cask "Spotify"
+cask "gpg-suite"
+
+tap "caskroom/drivers"
+cask "razer-synapse"
